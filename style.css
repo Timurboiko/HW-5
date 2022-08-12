@@ -1,0 +1,73 @@
+.main-page
+{color: #2196F3;
+text-decoration: none;
+font-family: "Raleway";}
+.main-page2{color:#000000 ;
+text-decoration: none;
+font-family: "Raleway";}
+.navigation
+{
+   text-decoration: none;
+    font-family: "Roboto";
+    color: #212121;
+}
+.navigation:hover{
+    color: #2196F3;
+}
+.contacts-email{
+    text-decoration: none;
+    font-family: "Roboto";
+    color: #757575;   
+}
+.contacts-email:hover{
+    color: #2196F3;
+}
+.main{
+    font-family: "Roboto";
+    color: #FFFFFF;
+}
+.main-button{
+    background-color: #2F303A;
+}
+.btn{
+  color: #FFFFFF;
+  background-color: #2196F3;
+  font-family: "Roboto";  
+}
+.article
+{
+    color: #212121;
+    font-family: "Roboto";
+}
+.content-article{
+    color: #757575;
+    font-family: "Roboto";
+}
+.Photos{
+    font-family: "Roboto";
+    color: #212121;
+}
+.description{
+    color: #212121;
+    font-family: "Roboto";
+}
+.description2{
+    color: #757575;
+    font-family: "Roboto";
+}
+.footer{
+    background-color: #2F303A;
+}
+.adress{
+    color: #FFFFFF;
+    font-family: "Roboto";
+}
+.email-adress2{
+    font-family: "Roboto";
+    color: #757575;
+    text-decoration: none;
+}
+.content{
+    color: #FFFFFF;
+}
+
